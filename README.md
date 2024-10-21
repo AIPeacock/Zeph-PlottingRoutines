@@ -1,4 +1,4 @@
-# Zeph-PlottingRoutinesCode
+# Zeph-PlottingRoutines
 Python plotting routines for ZEPHYROS data. 
 
 Included are routines for background temperature profile and magnetic fields.
